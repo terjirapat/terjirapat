@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jirapat Atikomtrirat
-- 👀 I’m interested in Data Analytic and Data Science
-- 🌱 I’m currently studying for a master's degree in Data Science
+- 👀 I’m a Data Science
 
 
 <!---
