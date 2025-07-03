@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ter
+# Hi there 👋
 
 🎯 **Data Scientist & Data Analyst** | 📊 Turning Data into Insightful Actions | 🔍 Curious | 📈 Impact-driven
 
@@ -6,19 +6,18 @@
 
 ## 🚀 About Me
 
-Hi! I'm [Your Name], a passionate Data Scientist and Data Analyst with [X] years of experience transforming complex data into actionable strategies and solutions.  
+Hi! I'm Ter, a passionate Data Scientist and Data Analyst with 2 years of experience transforming complex data into actionable strategies and solutions.  
 I love solving real-world problems with data, building robust models, and creating clear, compelling visualizations.
 
 - 🔬 **Specialties:** Machine Learning, Statistical Analysis, Data Visualization, ETL Pipelines
 - ⚙️ **Tools:** Python (Pandas, Scikit-learn, PySpark), SQL, R, Tableau, Power BI
-- ☁️ **Platforms:** AWS, GCP
+- ☁️ **Platforms:** AWS
 - 🧩 **Interests:** Forecasting, Customer Segmentation, Recommendation Systems, A/B Testing
 
 ---
 
 ## 💼 What I’m Working On
 
-- 📈 Improving my **PySpark** skills with large-scale data projects  
 - 🤖 Building end-to-end **ML pipelines** & deploying them in production  
 - 🧪 Exploring **Generative & Agentic AI** for practical business use cases  
 - ✍️ Writing about my projects & learnings in data science
@@ -47,7 +46,6 @@ Here are a few highlights from my portfolio — check out my repositories for mo
 
 **Languages & Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
@@ -57,9 +55,8 @@ Here are a few highlights from my portfolio — check out my repositories for mo
 
 ## 📫 Let’s Connect
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 **Portfolio Website:** [YourWebsite.com](https://www.yourwebsite.com) *(optional)*
+- 📧 **Email:** jirapat.atikom@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jirapatatikom/)
 
 ---
 
