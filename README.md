@@ -16,14 +16,6 @@ I love solving real-world problems with data, building robust models, and creati
 
 ---
 
-## 💼 What I’m Working On
-
-- 🤖 Building end-to-end **ML pipelines** & deploying them in production  
-- 🧪 Exploring **Generative & Agentic AI** for practical business use cases  
-- ✍️ Writing about my projects & learnings in data science
-
----
-
 ## 📂 Featured Projects
 
 Here are a few highlights from my portfolio — check out my repositories for more!
