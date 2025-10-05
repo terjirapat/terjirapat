@@ -23,15 +23,6 @@ Here are a few highlights from my portfolio — check out my repositories for mo
 - 🔎 **Customer Segmentation Pipeline**  
   *Built a machine learning pipeline for segmenting customers to improve marketing efficiency.*
 
-- 🛍️ **Sales Forecasting Model**  
-  *Developed and deployed a time series forecasting model for demand prediction.*
-
-- 📊 **Interactive Dashboards**  
-  *Created insightful dashboards with Tableau and Power BI to support business decisions.*
-
-- ⚙️ **PySpark Data Pipeline**  
-  *Processed large datasets using PySpark for scalable ETL and analytics.*
-
 ---
 
 ## 🛠️ Skills
